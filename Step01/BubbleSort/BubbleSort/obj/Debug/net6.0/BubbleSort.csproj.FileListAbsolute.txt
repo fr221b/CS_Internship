@@ -1,0 +1,15 @@
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\bin\Debug\net6.0\ref\BubbleSort.dll
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+H:\CS_Internship\Practices\Step01\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
